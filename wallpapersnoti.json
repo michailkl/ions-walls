@@ -1,0 +1,18 @@
+{
+	"wallpapers": [
+		{
+			"name": "wall1",
+			"author": "Michail_k",
+			"url": "https://raw.githubusercontent.com/michailkl/ions-walls/master/wall1noti.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright 2016 Michail_k"
+		},
+		{
+			"name": "wall2",
+			"author": "Michail_k",
+			"url": "https://raw.githubusercontent.com/michailkl/ions-walls/master/wall2noti.png",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright 2016 Michail_k"
+		}
+	]
+}
